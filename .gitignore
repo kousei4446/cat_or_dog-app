@@ -1,3 +1,2 @@
-# Ignore models directory
-two_class_classification/prediction/models/
-s
+# Ignore model files
+prediction/models/
