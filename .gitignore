@@ -1,3 +1,5 @@
 # Ignore model files
-prediction/models/
-prediction/models/
+prediction/models/*.h5
+
+# Ignore virtual environment
+myenv/
